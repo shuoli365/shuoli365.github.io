@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "Research"
+    url: /research/index.html
+  - title: "Publications"
+    url: /publications/index.html
+  - title: "News"
+    url: /news/index.html

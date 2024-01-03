@@ -6,8 +6,26 @@ hide_hero: true
 ---
 ## Overview
 
- Driven by emerging IoT applications, such as wireless sensor networks, wearable electronics,human-machine interfaces, and robotics, the next-generation IoT devices need to furtherenhance their capabilities by improving: 1) energy effi ciency to tradeoff the performance and power consumption under resource-constrained conditions; 2) intelligence for evolving frompassive components to smart systems with inference and interactiocapabilities; 3) autonomyand miniaturization for ubiquitous deployment and operation without any human intervention;4) agile design methodology to reduce the design complexity, time-to-market, labor cost, andrisks.
- 
-Inspired by this vision, my current research areas include energy harvesting and powermanagement units, in-memory computing accelerators and architectures for machine-learningapplications, and systems-on-chip for ultra-low power IoT platforms. My research aims to makethe next-generation IoT devices more energy-effi cient, intelligent, and miniaturized to enableubiquitous and autonomous deployment by leveraging advanced integrated circuit techniqueswith cross-layer optimizations at application, algorithm, architecture, circuit, and designautomation levels.
+Continuously driven by emerging internet-of-things (IoT) applications, such as wireless sensor networks, wearable electronics, robotics, and human-machine interfaces, the next-generation IoT devices need to further enhance their capabilities by improving: 1) energy efficiency to achieve an optimum energy-performance tradeoff under resource-constrained conditions; 2) edge intelligence for evolving from passive components to smart systems with inference and interaction capabilities; 3) autonomy and miniaturization for ubiquitous deployment and operation without any human intervention.
 
-<img src="/assets/images/research_overview_1p1.jpg" width="1000" align="middle" style="padding-right: 30px; padding-bottom: 20px;">
+Inspired by this vision, my current research areas include analog/digital/mixed-signal integrated circuits, energy harvesting and power management units, in-memory computing for edge AI, and systems-on-chip for ultra-low power IoT systems. My research mission is to make the next-generation IoT devices more energy-efficient, intelligent, and miniaturized to enable ubiquitous and autonomous deployment by leveraging advanced integrated circuit techniques with system optimizations from both power delivery and edge computing perspectives.
+
+<img src="/assets/images/research_overview_1p0.jpg" width="1000" align="middle" style="padding-right: 30px; padding-bottom: 20px;">
+
+## Efficient Energy Harvesting and Power Delivery for Self-Powered IoT SoCs
+
+**Highly Efficient Energy Harvesting and Power Management Systems**
+
+**Sub-nW Power Management Solution for ULP IoT Systems**
+
+## In-Memory Computing Accelerators for Edge AI
+
+**Characterizing the Bank-Level Accuracy vs. Energy Trade-off for SRAM-Based IMCs**
+
+**Reconfigurable Neuromorphic IMC Architecture for Hybrid Neural Networks**
+
+## Energy-Efficient SoC and Its Application for IoT Edge
+
+**Energy-Efficient IoT SoC using System-Level Power Management Techniques**
+
+**Power Reduction of Miscellaneous Electric Loads using an Energy-Efficient SoC**

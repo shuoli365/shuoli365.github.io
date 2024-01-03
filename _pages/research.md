@@ -14,18 +14,18 @@ Inspired by this vision, my current research areas include analog/digital/mixed-
 
 ## Efficient Energy Harvesting and Power Delivery for Self-Powered IoT SoCs
 
-**Highly Efficient Energy Harvesting and Power Management Systems**
+Highly Efficient Energy Harvesting and Power Management Systems
 
-**Sub-nW Power Management Solution for ULP IoT Systems**
+Sub-nW Power Management Solution for ULP IoT Systems
 
 ## In-Memory Computing Accelerators for Edge AI
 
-**Characterizing the Bank-Level Accuracy vs. Energy Trade-off for SRAM-Based IMCs**
+Characterizing the Bank-Level Accuracy vs. Energy Trade-off for SRAM-Based IMCs
 
-**Reconfigurable Neuromorphic IMC Architecture for Hybrid Neural Networks**
+Reconfigurable Neuromorphic IMC Architecture for Hybrid Neural Networks
 
 ## Energy-Efficient SoC and Its Application for IoT Edge
 
-**Energy-Efficient IoT SoC using System-Level Power Management Techniques**
+Energy-Efficient IoT SoC using System-Level Power Management Techniques
 
-**Power Reduction of Miscellaneous Electric Loads using an Energy-Efficient SoC**
+Power Reduction of Miscellaneous Electric Loads using an Energy-Efficient SoC

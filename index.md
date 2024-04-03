@@ -13,7 +13,6 @@ He was a recipient of the IEEE International Symposium on Circuits and Systems (
 
 **Research Interests**: VLSI, Energy Harvesting, Power Management, In-Memory Computing, Systems-on-Chip
 
-**I am currently on the academic job market!**
 
 [Google Scholar](https://scholar.google.com/citations?user=Z5p8pyEAAAAJ&hl=en)
 
